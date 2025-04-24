@@ -22,8 +22,8 @@ int main() {
     char estado2;
     
     //declaração das variáveis de tipo string
-    char codigoCarta1[4];
-    char codigoCarta2[4];
+    char codigoCarta1[6];
+    char codigoCarta2[6];
     char cidade1[40];
     char cidade2[40];
     
