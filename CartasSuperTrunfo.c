@@ -37,10 +37,10 @@ int main() {
     scanf("%c", &estado1);
 
     printf("Agora digite o código da Carta 1:\n");
-    scanf("%s", &codigoCarta1); 
+    scanf("%s", &codigoCarta1);
 
     printf("Digite o nome da cidade:\n");
-    scanf("%s", &cidade1); 
+    scanf("%s", &cidade1);
 
     printf("Agora digite o número correspondente à população:\n");
     scanf("%d", &populacao1); 
@@ -70,7 +70,7 @@ int main() {
     
     // Cadastro da Carta 2:
     printf("Digite o nome do Estado da Carta 2:\n");
-    scanf("%c", &estado2);
+    scanf("c", &estado2);
 
     printf("Agora digite o código da Carta 2:\n");
     scanf("%s", &codigoCarta2);
